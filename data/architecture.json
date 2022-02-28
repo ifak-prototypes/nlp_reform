@@ -1,0 +1,26 @@
+{
+    "components": [
+        {
+            "id": "COMP_ABC", 
+            "description": "?"
+        }
+    ], 
+    "signals": [
+        {
+            "id": "SIG_XYZ", 
+            "description": "An important signal", 
+            "type": "single", 
+            "components": []
+        }
+    ], 
+    "parameters": [
+        {
+            "id": "PARAM_01", 
+            "name": "important_param", 
+            "type": "single", 
+            "value": "70", 
+            "description": "An important parameter", 
+            "component": "COMP_ABC"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+[
+    {
+        "id": "1",
+        "description": "An important param is greater than [PARAM_01] and the device restarts",
+        "components": [
+            "COMP_ABC"
+        ],
+        "section": "1.1"
+    }
+]

@@ -1,0 +1,10 @@
+cefpython3==66.0
+pytest
+pyyaml
+pyinstaller==4.7
+tinyaes
+thefuzz==0.19.0
+spacy==3.2.1
+scikit-learn==1.0.2
+coverage
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.2.0/en_core_web_sm-3.2.0.tar.gz

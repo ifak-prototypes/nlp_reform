@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<comparator>
+	<comp_type type = "Superiority">
+		<comp_word>superiority</comp_word>
+		<comp_word>majority</comp_word>
+		<comp_word>greatness</comp_word>
+		<comp_word>advantage</comp_word>
+		<comp_word>pull</comp_word>
+		<comp_word>preponderance</comp_word>
+		<comp_word>preponderation</comp_word>
+		<comp_word>vantage ground</comp_word>
+		<comp_word>prevalence</comp_word>
+		<comp_word>partiality</comp_word>
+		<comp_word>personal superiority</comp_word>
+		<comp_word>nobility</comp_word>
+		<comp_word>Triton among the minnows</comp_word>
+		<comp_word>primus inter pares</comp_word>
+		<comp_word>nulli secundus</comp_word>
+		<comp_word>captain</comp_word>
+		<comp_word>crackajack</comp_word>
+		<comp_word>supremacy</comp_word>
+		<comp_word>preeminence</comp_word>
+		<comp_word>lead</comp_word>
+		<comp_word>maximum</comp_word>
+		<comp_word>record</comp_word>
+		<comp_word>trikumia</comp_word>
+		<comp_word>climax</comp_word>
+		<comp_word>culmination</comp_word>
+		<comp_word>transcendence</comp_word>
+		<comp_word>ne plus ultra</comp_word>
+		<comp_word>lion's share</comp_word>
+		<comp_word>Benjamin's mess</comp_word>
+		<comp_word>excess</comp_word>
+		<comp_word>surplus</comp_word>
+		<comp_word>be superior</comp_word>
+		<comp_word>exceed</comp_word>
+		<comp_word>excel</comp_word>
+		<comp_word>transcend</comp_word>
+		<comp_word>outdo</comp_word>
+		<comp_word>outbalance†</comp_word>
+		<comp_word>outweigh</comp_word>
+		<comp_word>outrank</comp_word>
+		<comp_word>outrival</comp_word>
+		<comp_word>out-Herod</comp_word>
+		<comp_word>pass</comp_word>
+		<comp_word>surpass</comp_word>
+		<comp_word>get ahead of</comp_word>
+		<comp_word>over-top</comp_word>
+		<comp_word>override</comp_word>
+		<comp_word>overpass</comp_word>
+		<comp_word>overbalance</comp_word>
+		<comp_word>overweigh</comp_word>
+		<comp_word>overmatch</comp_word>
+		<comp_word>top</comp_word>
+		<comp_word>o'ertop</comp_word>
+		<comp_word>cap</comp_word>
+		<comp_word>beat</comp_word>
+		<comp_word>cut out</comp_word>
+		<comp_word>beat hollow</comp_word>
+		<comp_word>outstrip</comp_word>
+		<comp_word>eclipse</comp_word>
+		<comp_word>throw into the shade</comp_word>
+		<comp_word>take the shine out of</comp_word>
+		<comp_word>outshine</comp_word>
+		<comp_word>put one's nose out of joint</comp_word>
+		<comp_word>have the upper hand</comp_word>
+		<comp_word>have the whip hand of</comp_word>
+		<comp_word>have the advantage</comp_word>
+		<comp_word>turn the scale</comp_word>
+		<comp_word>kick the beam</comp_word>
+		<comp_word>play first fiddle</comp_word>
+		<comp_word>preponderate</comp_word>
+		<comp_word>predominate</comp_word>
+		<comp_word>prevail</comp_word>
+		<comp_word>precede</comp_word>
+		<comp_word>take precedence</comp_word>
+		<comp_word>come first</comp_word>
+		<comp_word>come to a head</comp_word>
+		<comp_word>culminate</comp_word>
+		<comp_word>beat all others</comp_word>
+		<comp_word>bear the palm</comp_word>
+		<comp_word>break the record</comp_word>
+		<comp_word>larger</comp_word>
+		<comp_word>render larger</comp_word>
+		<comp_word>superior</comp_word>
+		<comp_word>greater</comp_word>
+		<comp_word>major</comp_word>
+		<comp_word>higher</comp_word>
+		<comp_word>exceeding</comp_word>
+		<comp_word>great</comp_word>
+		<comp_word>distinguished</comp_word>
+		<comp_word>ultra</comp_word>
+		<comp_word>vaulting</comp_word>
+		<comp_word>more than a match for</comp_word>
+		<comp_word>supreme</comp_word>
+		<comp_word>greatest</comp_word>
+		<comp_word>utmost</comp_word>
+		<comp_word>paramount</comp_word>
+		<comp_word>preeminent</comp_word>
+		<comp_word>foremost</comp_word>
+		<comp_word>crowning</comp_word>
+		<comp_word>first-rate</comp_word>
+		<comp_word>unrivaled peerless</comp_word>
+		<comp_word>matchless</comp_word>
+		<comp_word>none such</comp_word>
+		<comp_word>second to none</comp_word>
+		<comp_word>sans pareil</comp_word>
+		<comp_word>unparagoned†</comp_word>
+		<comp_word>unparalleled</comp_word>
+		<comp_word>unequalled</comp_word>
+		<comp_word>unapproached†</comp_word>
+		<comp_word>unsurpassed</comp_word>
+		<comp_word>superlative</comp_word>
+		<comp_word>inimitable facile princeps</comp_word>
+		<comp_word>incomparable</comp_word>
+		<comp_word>sovereign</comp_word>
+		<comp_word>without parallel</comp_word>
+		<comp_word>nulli secundus</comp_word>
+		<comp_word>ne plus ultra</comp_word>
+		<comp_word>beyond compare</comp_word>
+		<comp_word>beyond comparison</comp_word>
+		<comp_word>culminating</comp_word>
+		<comp_word>transcendent</comp_word>
+		<comp_word>transcendental</comp_word>
+		<comp_word>plus royaliste que le Roi</comp_word>
+		<comp_word>more catholic than the Pope increased</comp_word>
+		<comp_word>enlarged</comp_word>
+		<comp_word>Adv</comp_word>
+		<comp_word>beyond</comp_word>
+		<comp_word>more</comp_word>
+		<comp_word>over</comp_word>
+		<comp_word>over the mark</comp_word>
+		<comp_word>above</comp_word>
+		<comp_word>above the mark</comp_word>
+		<comp_word>above par</comp_word>
+		<comp_word>upwards of</comp_word>
+		<comp_word>in advance of</comp_word>
+		<comp_word>over and above</comp_word>
+		<comp_word>at the top of the scale</comp_word>
+		<comp_word>at its height  eminently</comp_word>
+		<comp_word>egregiously</comp_word>
+		<comp_word>preeminently</comp_word>
+		<comp_word>surpassing</comp_word>
+		<comp_word>prominently</comp_word>
+		<comp_word>superlatively</comp_word>
+		<comp_word>supremely</comp_word>
+		<comp_word>above all</comp_word>
+		<comp_word>of all things</comp_word>
+		<comp_word>the most</comp_word>
+		<comp_word>to crown all</comp_word>
+		<comp_word>kat exochin</comp_word>
+		<comp_word>par excellence</comp_word>
+		<comp_word>principally</comp_word>
+		<comp_word>especially</comp_word>
+		<comp_word>particularly</comp_word>
+		<comp_word>peculiarly</comp_word>
+		<comp_word>a fortiori</comp_word>
+		<comp_word>even</comp_word>
+		<comp_word>yea</comp_word>
+		<comp_word>still more</comp_word>
+		<comp_word>exceeding</comp_word>
+		<comp_word>beyond</comp_word>
+		<comp_word>over</comp_word>
+		<comp_word>past</comp_word>
+		<comp_word>more than</comp_word>
+		<comp_word>in advance of</comp_word>
+		<comp_word>over and above</comp_word>
+		<comp_word>over the mark</comp_word>
+		<comp_word>above the mark</comp_word>
+		<comp_word>above par</comp_word>
+		<comp_word>at the top of the scale</comp_word>
+		<comp_word>at its height</comp_word>
+		<comp_symbol>></comp_symbol>
+	</comp_type>
+	<comp_type type = "Inferiority">
+		<comp_word>inferiority</comp_word>
+		<comp_word>minority</comp_word>
+		<comp_word>subordinacy</comp_word>
+		<comp_word>shortcoming</comp_word>
+		<comp_word>deficiency</comp_word>
+		<comp_word>minimum</comp_word>
+		<comp_word>smallness</comp_word>
+		<comp_word>imperfection</comp_word>
+		<comp_word>lower quality</comp_word>
+		<comp_word>lower worth</comp_word>
+		<comp_word>be inferior</comp_word>
+		<comp_word>fall short of</comp_word>
+		<comp_word>come short of</comp_word>
+		<comp_word>not pass</comp_word>
+		<comp_word>not come up to</comp_word>
+		<comp_word>become smaller</comp_word>
+		<comp_word>render smaller</comp_word>
+		<comp_word>hide its diminished head</comp_word>
+		<comp_word>retire into the shade</comp_word>
+		<comp_word>yield the palm</comp_word>
+		<comp_word>play second fiddle</comp_word>
+		<comp_word>be upstaged</comp_word>
+		<comp_word>take a back seat</comp_word>
+		<comp_word>inferior</comp_word>
+		<comp_word>smaller</comp_word>
+		<comp_word>small</comp_word>
+		<comp_word>minor</comp_word>
+		<comp_word>less</comp_word>
+		<comp_word>lesser</comp_word>
+		<comp_word>deficient</comp_word>
+		<comp_word>minus</comp_word>
+		<comp_word>lower</comp_word>
+		<comp_word>subordinate</comp_word>
+		<comp_word>secondary</comp_word>
+		<comp_word>secondrate</comp_word>
+		<comp_word>sub</comp_word>
+		<comp_word>subaltern</comp_word>
+		<comp_word>thrown into the shade</comp_word>
+		<comp_word>weighed in the balance and found wanting</comp_word>
+		<comp_word>not fit to hold a candle to</comp_word>
+		<comp_word>can't hold a candle to</comp_word>
+		<comp_word>least</comp_word>
+		<comp_word>smallest</comp_word>
+		<comp_word>lowest</comp_word>
+		<comp_word>diminished</comp_word>
+		<comp_word>reduced</comp_word>
+		<comp_word>unimportant</comp_word>
+		<comp_word>less</comp_word>
+		<comp_word>under the mark</comp_word>
+		<comp_word>below the mark</comp_word>
+		<comp_word>below par</comp_word>
+		<comp_word>at the bottom of the scale</comp_word>
+		<comp_word>at a low ebb</comp_word>
+		<comp_word>at a disadvantage</comp_word>
+		<comp_word>short of</comp_word>
+		<comp_word>under</comp_word>
+		<comp_symbol>&lt;</comp_symbol>
+	</comp_type>
+	<comp_type type = "Greatness">
+		<comp_word>greatness</comp_word>
+		<comp_word>magnitude</comp_word>
+		<comp_word>size</comp_word>
+		<comp_word>multitude</comp_word>
+		<comp_word>immensity</comp_word>
+		<comp_word>enormity</comp_word>
+		<comp_word>infinity</comp_word>
+		<comp_word>might</comp_word>
+		<comp_word>strength</comp_word>
+		<comp_word>intensity</comp_word>
+		<comp_word>fullness</comp_word>
+		<comp_word>importance</comp_word>
+		<comp_word>great quantity</comp_word>
+		<comp_word>quantity</comp_word>
+		<comp_word>deal</comp_word>
+		<comp_word>power</comp_word>
+		<comp_word>sight</comp_word>
+		<comp_word>pot</comp_word>
+		<comp_word>volume</comp_word>
+		<comp_word>world</comp_word>
+		<comp_word>mass</comp_word>
+		<comp_word>heap</comp_word>
+		<comp_word>stock</comp_word>
+		<comp_word>peck</comp_word>
+		<comp_word>bushel</comp_word>
+		<comp_word>load</comp_word>
+		<comp_word>cargo</comp_word>
+		<comp_word>cartload†</comp_word>
+		<comp_word>wagonload</comp_word>
+		<comp_word>shipload</comp_word>
+		<comp_word>flood</comp_word>
+		<comp_word>spring tide</comp_word>
+		<comp_word>abundance</comp_word>
+		<comp_word>principal part</comp_word>
+		<comp_word>chief part</comp_word>
+		<comp_word>main part</comp_word>
+		<comp_word>greater part</comp_word>
+		<comp_word>major part</comp_word>
+		<comp_word>best part</comp_word>
+		<comp_word>essential part</comp_word>
+		<comp_word>bulk</comp_word>
+		<comp_word>mass</comp_word>
+		<comp_word>be great</comp_word>
+		<comp_word>run high</comp_word>
+		<comp_word>soar</comp_word>
+		<comp_word>tower</comp_word>
+		<comp_word>transcend</comp_word>
+		<comp_word>rise to a great height</comp_word>
+		<comp_word>carry to a great height</comp_word>
+		<comp_word>know no bounds</comp_word>
+		<comp_word>ascend</comp_word>
+		<comp_word>mount</comp_word>
+		<comp_word>enlarge</comp_word>
+		<comp_word>great</comp_word>
+		<comp_word>greater</comp_word>
+		<comp_word>large</comp_word>
+		<comp_word>considerable</comp_word>
+		<comp_word>fair</comp_word>
+		<comp_word>above par</comp_word>
+		<comp_word>big</comp_word>
+		<comp_word>huge</comp_word>
+		<comp_word>Herculean</comp_word>
+		<comp_word>cyclopean</comp_word>
+		<comp_word>ample</comp_word>
+		<comp_word>abundant</comp_word>
+		<comp_word>full</comp_word>
+		<comp_word>intense</comp_word>
+		<comp_word>strong</comp_word>
+		<comp_word>sound</comp_word>
+		<comp_word>passing</comp_word>
+		<comp_word>heavy</comp_word>
+		<comp_word>plenary</comp_word>
+		<comp_word>deep</comp_word>
+		<comp_word>high</comp_word>
+		<comp_word>signal</comp_word>
+		<comp_word>at its height</comp_word>
+		<comp_word>in the zenith world-wide</comp_word>
+		<comp_word>widespread</comp_word>
+		<comp_word>far-famed</comp_word>
+		<comp_word>extensive</comp_word>
+		<comp_word>wholesale</comp_word>
+		<comp_word>many</comp_word>
+		<comp_word>goodly</comp_word>
+		<comp_word>noble</comp_word>
+		<comp_word>precious</comp_word>
+		<comp_word>mighty</comp_word>
+		<comp_word>sad</comp_word>
+		<comp_word>grave</comp_word>
+		<comp_word>heavy</comp_word>
+		<comp_word>serious</comp_word>
+		<comp_word>far gone</comp_word>
+		<comp_word>arrant</comp_word>
+		<comp_word>downright</comp_word>
+		<comp_word>utter</comp_word>
+		<comp_word>uttermost</comp_word>
+		<comp_word>crass</comp_word>
+		<comp_word>gross</comp_word>
+		<comp_word>arch</comp_word>
+		<comp_word>profound</comp_word>
+		<comp_word>intense</comp_word>
+		<comp_word>consummate</comp_word>
+		<comp_word>rank</comp_word>
+		<comp_word>uninitiated</comp_word>
+		<comp_word>red-hot</comp_word>
+		<comp_word>desperate</comp_word>
+		<comp_word>glaring</comp_word>
+		<comp_word>flagrant</comp_word>
+		<comp_word>stark staring</comp_word>
+		<comp_word>thorough-paced</comp_word>
+		<comp_word>thoroughgoing</comp_word>
+		<comp_word>roaring</comp_word>
+		<comp_word>thumping</comp_word>
+		<comp_word>extraordinary</comp_word>
+		<comp_word>important</comp_word>
+		<comp_word>unsurpassed</comp_word>
+		<comp_word>complete</comp_word>
+		<comp_word>august</comp_word>
+		<comp_word>grand</comp_word>
+		<comp_word>dignified</comp_word>
+		<comp_word>sublime</comp_word>
+		<comp_word>majestic</comp_word>
+		<comp_word>vast</comp_word>
+		<comp_word>immense</comp_word>
+		<comp_word>enormous</comp_word>
+		<comp_word>extreme</comp_word>
+		<comp_word>inordinate</comp_word>
+		<comp_word>excessive</comp_word>
+		<comp_word>extravagant</comp_word>
+		<comp_word>exorbitant</comp_word>
+		<comp_word>outrageous</comp_word>
+		<comp_word>preposterous</comp_word>
+		<comp_word>unconscionable</comp_word>
+		<comp_word>swinging</comp_word>
+		<comp_word>monstrous</comp_word>
+		<comp_word>overgrown</comp_word>
+		<comp_word>towering</comp_word>
+		<comp_word>stupendous</comp_word>
+		<comp_word>prodigious</comp_word>
+		<comp_word>astonishing</comp_word>
+		<comp_word>incredible</comp_word>
+		<comp_word>marvelous</comp_word>
+		<comp_word>unlimited</comp_word>
+		<comp_word>unapproachable</comp_word>
+		<comp_word>unutterable</comp_word>
+		<comp_word>indescribable</comp_word>
+		<comp_word>ineffable</comp_word>
+		<comp_word>unspeakable</comp_word>
+		<comp_word>inexpressible</comp_word>
+		<comp_word>beyond expression</comp_word>
+		<comp_word>fabulous</comp_word>
+		<comp_word>undiminished</comp_word>
+		<comp_word>unabated</comp_word>
+		<comp_word>unreduced†</comp_word>
+		<comp_word>unrestricted</comp_word>
+		<comp_word>absolute</comp_word>
+		<comp_word>positive</comp_word>
+		<comp_word>stark</comp_word>
+		<comp_word>decided</comp_word>
+		<comp_word>unequivocal</comp_word>
+		<comp_word>essential</comp_word>
+		<comp_word>perfect</comp_word>
+		<comp_word>finished</comp_word>
+		<comp_word>remarkable</comp_word>
+		<comp_word>of mark</comp_word>
+		<comp_word>marked</comp_word>
+		<comp_word>pointed</comp_word>
+		<comp_word>veriest</comp_word>
+		<comp_word>noteworthy</comp_word>
+		<comp_word>renowned</comp_word>
+		<comp_word>truly</comp_word>
+		<comp_word>decidedly</comp_word>
+		<comp_word>unequivocally</comp_word>
+		<comp_word>purely</comp_word>
+		<comp_word>absolutely</comp_word>
+		<comp_word>seriously</comp_word>
+		<comp_word>essentially</comp_word>
+		<comp_word>fundamentally</comp_word>
+		<comp_word>radically</comp_word>
+		<comp_word>downright</comp_word>
+		<comp_word>in all conscience</comp_word>
+		<comp_word>for the most part</comp_word>
+		<comp_word>in the main</comp_word>
+		<comp_word>entirely</comp_word>
+		<comp_word>abundantly</comp_word>
+		<comp_word>widely</comp_word>
+		<comp_word>far and wide</comp_word>
+		<comp_word>greatly</comp_word>
+		<comp_word>much</comp_word>
+		<comp_word>muckle†</comp_word>
+		<comp_word>well</comp_word>
+		<comp_word>indeed</comp_word>
+		<comp_word>very</comp_word>
+		<comp_word>very much</comp_word>
+		<comp_word>a deal</comp_word>
+		<comp_word>no end of</comp_word>
+		<comp_word>most</comp_word>
+		<comp_word>not a little</comp_word>
+		<comp_word>pretty</comp_word>
+		<comp_word>pretty well</comp_word>
+		<comp_word>enough</comp_word>
+		<comp_word>in a great measure</comp_word>
+		<comp_word>richly</comp_word>
+		<comp_word>to a large extent</comp_word>
+		<comp_word>to a great extent</comp_word>
+		<comp_word>to a gigantic extent</comp_word>
+		<comp_word>on a large scale</comp_word>
+		<comp_word>so</comp_word>
+		<comp_word>never so</comp_word>
+		<comp_word>ever so</comp_word>
+		<comp_word>ever so dole</comp_word>
+		<comp_word>much</comp_word>
+		<comp_word>by wholesale</comp_word>
+		<comp_word>mighty</comp_word>
+		<comp_word>powerfully</comp_word>
+		<comp_word>with a witness</comp_word>
+		<comp_word>ultra</comp_word>
+		<comp_word>in the extreme</comp_word>
+		<comp_word>extremely</comp_word>
+		<comp_word>exceedingly</comp_word>
+		<comp_word>intensely</comp_word>
+		<comp_word>exquisitely</comp_word>
+		<comp_word>acutely</comp_word>
+		<comp_word>indefinitely</comp_word>
+		<comp_word>immeasurably</comp_word>
+		<comp_word>beyond compare</comp_word>
+		<comp_word>beyond comparison</comp_word>
+		<comp_word>beyond measure</comp_word>
+		<comp_word>beyond all bounds</comp_word>
+		<comp_word>incalculably</comp_word>
+		<comp_word>infinitely</comp_word>
+		<comp_word>preeminently</comp_word>
+		<comp_word>superlatively</comp_word>
+		<comp_word>immoderately</comp_word>
+		<comp_word>monstrously</comp_word>
+		<comp_word>preposterously</comp_word>
+		<comp_word>inordinately</comp_word>
+		<comp_word>exorbitantly</comp_word>
+		<comp_word>excessively</comp_word>
+		<comp_word>enormously</comp_word>
+		<comp_word>out of all proportion</comp_word>
+		<comp_word>with a vengeance</comp_word>
+		<comp_word>particularly</comp_word>
+		<comp_word>remarkably</comp_word>
+		<comp_word>singularly</comp_word>
+		<comp_word>curiously</comp_word>
+		<comp_word>uncommonly</comp_word>
+		<comp_word>unusually</comp_word>
+		<comp_word>peculiarly</comp_word>
+		<comp_word>notably</comp_word>
+		<comp_word>signally</comp_word>
+		<comp_word>strikingly</comp_word>
+		<comp_word>pointedly</comp_word>
+		<comp_word>mainly</comp_word>
+		<comp_word>chiefly</comp_word>
+		<comp_word>famously</comp_word>
+		<comp_word>egregiously</comp_word>
+		<comp_word>prominently</comp_word>
+		<comp_word>glaringly</comp_word>
+		<comp_word>emphatically</comp_word>
+		<comp_word>kat exochin</comp_word>
+		<comp_word>strangely</comp_word>
+		<comp_word>wonderfully</comp_word>
+		<comp_word>amazingly</comp_word>
+		<comp_word>surprisingly</comp_word>
+		<comp_word>astonishingly</comp_word>
+		<comp_word>incredibly</comp_word>
+		<comp_word>marvelously</comp_word>
+		<comp_word>awfully</comp_word>
+		<comp_word>stupendously</comp_word>
+		<comp_word>peculiarly</comp_word>
+		<comp_word>furiously</comp_word>
+		<comp_word>severely</comp_word>
+		<comp_word>desperately</comp_word>
+		<comp_word>tremendously</comp_word>
+		<comp_word>extravagantly</comp_word>
+		<comp_word>confoundedly</comp_word>
+		<comp_word>deucedly</comp_word>
+		<comp_word>devilishly</comp_word>
+		<comp_word>with a vengeance</comp_word>
+		<comp_word>a outrance†</comp_word>
+		<comp_word>a toute outrance</comp_word>
+		<comp_word>painfully</comp_word>
+		<comp_word>sadly</comp_word>
+		<comp_word>grossly</comp_word>
+		<comp_word>sorely</comp_word>
+		<comp_word>bitterly</comp_word>
+		<comp_word>piteously</comp_word>
+		<comp_word>grievously</comp_word>
+		<comp_word>miserably</comp_word>
+		<comp_word>cruelly</comp_word>
+		<comp_word>woefully</comp_word>
+		<comp_word>lamentably</comp_word>
+		<comp_word>shockingly</comp_word>
+		<comp_word>frightfully</comp_word>
+		<comp_word>dreadfully</comp_word>
+		<comp_word>fearfully</comp_word>
+		<comp_word>terribly</comp_word>
+		<comp_word>horribly</comp_word>
+		<comp_symbol>></comp_symbol>
+	</comp_type>
+	<comp_type type = "Smallness">
+		<comp_word>smallness</comp_word>
+		<comp_word>littleness</comp_word>
+		<comp_word>tenuity</comp_word>
+		<comp_word>paucity</comp_word>
+		<comp_word>fewness</comp_word>
+		<comp_word>meanness</comp_word>
+		<comp_word>insignificance</comp_word>
+		<comp_word>mediocrity</comp_word>
+		<comp_word>moderation</comp_word>
+		<comp_word>small quantity</comp_word>
+		<comp_word>modicum</comp_word>
+		<comp_word>trace</comp_word>
+		<comp_word>hint</comp_word>
+		<comp_word>minimum</comp_word>
+		<comp_word>vanishing point</comp_word>
+		<comp_word>material point</comp_word>
+		<comp_word>atom</comp_word>
+		<comp_word>particle</comp_word>
+		<comp_word>molecule</comp_word>
+		<comp_word>corpuscle</comp_word>
+		<comp_word>point</comp_word>
+		<comp_word>speck</comp_word>
+		<comp_word>dot</comp_word>
+		<comp_word>mote</comp_word>
+		<comp_word>jot</comp_word>
+		<comp_word>iota</comp_word>
+		<comp_word>ace</comp_word>
+		<comp_word>minutiae</comp_word>
+		<comp_word>details</comp_word>
+		<comp_word>look</comp_word>
+		<comp_word>thought</comp_word>
+		<comp_word>idea</comp_word>
+		<comp_word>soupcon</comp_word>
+		<comp_word>dab</comp_word>
+		<comp_word>dight†</comp_word>
+		<comp_word>whit</comp_word>
+		<comp_word>tittle</comp_word>
+		<comp_word>shade</comp_word>
+		<comp_word>shadow</comp_word>
+		<comp_word>spark</comp_word>
+		<comp_word>scintilla</comp_word>
+		<comp_word>gleam</comp_word>
+		<comp_word>touch</comp_word>
+		<comp_word>cast</comp_word>
+		<comp_word>grain</comp_word>
+		<comp_word>scruple</comp_word>
+		<comp_word>granule</comp_word>
+		<comp_word>globule</comp_word>
+		<comp_word>minim</comp_word>
+		<comp_word>sup</comp_word>
+		<comp_word>sip</comp_word>
+		<comp_word>sop</comp_word>
+		<comp_word>spice</comp_word>
+		<comp_word>drop</comp_word>
+		<comp_word>droplet</comp_word>
+		<comp_word>sprinkling</comp_word>
+		<comp_word>dash</comp_word>
+		<comp_word>morceau†</comp_word>
+		<comp_word>screed</comp_word>
+		<comp_word>smack</comp_word>
+		<comp_word>tinge</comp_word>
+		<comp_word>tincture</comp_word>
+		<comp_word>inch</comp_word>
+		<comp_word>patch</comp_word>
+		<comp_word>scantling</comp_word>
+		<comp_word>dole</comp_word>
+		<comp_word>scrap</comp_word>
+		<comp_word>shred</comp_word>
+		<comp_word>splinter</comp_word>
+		<comp_word>rag</comp_word>
+		<comp_word>tatter</comp_word>
+		<comp_word>cantlet†</comp_word>
+		<comp_word>flitter</comp_word>
+		<comp_word>gobbet†</comp_word>
+		<comp_word>mite</comp_word>
+		<comp_word>bit</comp_word>
+		<comp_word>morsel</comp_word>
+		<comp_word>crumb</comp_word>
+		<comp_word>seed</comp_word>
+		<comp_word>fritter</comp_word>
+		<comp_word>shive†</comp_word>
+		<comp_word>snip</comp_word>
+		<comp_word>snippet</comp_word>
+		<comp_word>snick†</comp_word>
+		<comp_word>snack</comp_word>
+		<comp_word>snatch</comp_word>
+		<comp_word>slip</comp_word>
+		<comp_word>scrag†</comp_word>
+		<comp_word>chip</comp_word>
+		<comp_word>chipping</comp_word>
+		<comp_word>shiver</comp_word>
+		<comp_word>sliver</comp_word>
+		<comp_word>driblet</comp_word>
+		<comp_word>clipping</comp_word>
+		<comp_word>paring</comp_word>
+		<comp_word>shaving</comp_word>
+		<comp_word>hair</comp_word>
+		<comp_word>nutshell</comp_word>
+		<comp_word>thimbleful</comp_word>
+		<comp_word>spoonful</comp_word>
+		<comp_word>handful</comp_word>
+		<comp_word>capful</comp_word>
+		<comp_word>mouthful</comp_word>
+		<comp_word>fragment</comp_word>
+		<comp_word>fraction</comp_word>
+		<comp_word>drop in the ocean</comp_word>
+		<comp_word>animalcule</comp_word>
+		<comp_word>trifle</comp_word>
+		<comp_word>mere nothing</comp_word>
+		<comp_word>next to nothing</comp_word>
+		<comp_word>hardly anything</comp_word>
+		<comp_word>just enough to swear by</comp_word>
+		<comp_word>the shadow of a shade</comp_word>
+		<comp_word>finiteness</comp_word>
+		<comp_word>finite quantity</comp_word>
+		<comp_word>be small</comp_word>
+		<comp_word>lie in a nutshell</comp_word>
+		<comp_word>diminish</comp_word>
+		<comp_word>[See Nonincrease</comp_word>
+		<comp_word>decrease]</comp_word>
+		<comp_word>small</comp_word>
+		<comp_word>little</comp_word>
+		<comp_word>diminutive</comp_word>
+		<comp_word>minute</comp_word>
+		<comp_word>fine</comp_word>
+		<comp_word>inconsiderable</comp_word>
+		<comp_word>paltry</comp_word>
+		<comp_word>faint</comp_word>
+		<comp_word>slender</comp_word>
+		<comp_word>light</comp_word>
+		<comp_word>slight</comp_word>
+		<comp_word>scanty</comp_word>
+		<comp_word>scant</comp_word>
+		<comp_word>limited</comp_word>
+		<comp_word>meager</comp_word>
+		<comp_word>sparing</comp_word>
+		<comp_word>few</comp_word>
+		<comp_word>low</comp_word>
+		<comp_word>so-so</comp_word>
+		<comp_word>middling</comp_word>
+		<comp_word>tolerable</comp_word>
+		<comp_word>no great shakes</comp_word>
+		<comp_word>below</comp_word>
+		<comp_word>below par</comp_word>
+		<comp_word>under par</comp_word>
+		<comp_word>below the mark</comp_word>
+		<comp_word>at a low ebb</comp_word>
+		<comp_word>halfway</comp_word>
+		<comp_word>moderate</comp_word>
+		<comp_word>modest</comp_word>
+		<comp_word>tender</comp_word>
+		<comp_word>subtle</comp_word>
+		<comp_word>inappreciable</comp_word>
+		<comp_word>evanescent</comp_word>
+		<comp_word>infinitesimal</comp_word>
+		<comp_word>homeopathic</comp_word>
+		<comp_word>very small</comp_word>
+		<comp_word>atomic</comp_word>
+		<comp_word>corpuscular</comp_word>
+		<comp_word>microscopic</comp_word>
+		<comp_word>molecular</comp_word>
+		<comp_word>subatomic</comp_word>
+		<comp_word>mere</comp_word>
+		<comp_word>simple</comp_word>
+		<comp_word>sheer</comp_word>
+		<comp_word>stark</comp_word>
+		<comp_word>bare</comp_word>
+		<comp_word>near run</comp_word>
+		<comp_word>dull</comp_word>
+		<comp_word>petty</comp_word>
+		<comp_word>shallow</comp_word>
+		<comp_word>stolid</comp_word>
+		<comp_word>ungifted</comp_word>
+		<comp_word>unintelligent</comp_word>
+		<comp_word>to a small extent</comp_word>
+		<comp_word>on a small scale</comp_word>
+		<comp_word>a little bit</comp_word>
+		<comp_word>a wee bit</comp_word>
+		<comp_word>slightly</comp_word>
+		<comp_word>imperceptibly</comp_word>
+		<comp_word>miserably</comp_word>
+		<comp_word>wretchedly</comp_word>
+		<comp_word>insufficiently</comp_word>
+		<comp_word>imperfectly</comp_word>
+		<comp_word>faintly</comp_word>
+		<comp_word>passably</comp_word>
+		<comp_word>pretty well</comp_word>
+		<comp_word>well enough</comp_word>
+		<comp_word>partially</comp_word>
+		<comp_word>in part</comp_word>
+		<comp_word>in a certain degree</comp_word>
+		<comp_word>to a certain degree</comp_word>
+		<comp_word>to a certain extent</comp_word>
+		<comp_word>comparatively</comp_word>
+		<comp_word>some</comp_word>
+		<comp_word>rather in some degree</comp_word>
+		<comp_word>in some measure</comp_word>
+		<comp_word>something</comp_word>
+		<comp_word>somewhat</comp_word>
+		<comp_word>simply</comp_word>
+		<comp_word>only</comp_word>
+		<comp_word>purely</comp_word>
+		<comp_word>merely</comp_word>
+		<comp_word>at least</comp_word>
+		<comp_word>at the least</comp_word>
+		<comp_word>at most</comp_word>
+		<comp_word>at the most</comp_word>
+		<comp_word>ever so little</comp_word>
+		<comp_word>as little as may be</comp_word>
+		<comp_word>tant soit peu</comp_word>
+		<comp_word>in ever so small a degree</comp_word>
+		<comp_word>thus far</comp_word>
+		<comp_word>pro tanto</comp_word>
+		<comp_word>within bounds</comp_word>
+		<comp_word>in a manner</comp_word>
+		<comp_word>after a fashion</comp_word>
+		<comp_word>so to speak</comp_word>
+		<comp_word>almost</comp_word>
+		<comp_word>nearly</comp_word>
+		<comp_word>well-nigh</comp_word>
+		<comp_word>short of</comp_word>
+		<comp_word>not quite</comp_word>
+		<comp_word>all but</comp_word>
+		<comp_word>near upon</comp_word>
+		<comp_word>close upon</comp_word>
+		<comp_word>peu s'en faut</comp_word>
+		<comp_word>near the mark</comp_word>
+		<comp_word>within an ace of</comp_word>
+		<comp_word>within an inch of</comp_word>
+		<comp_word>on the brink of</comp_word>
+		<comp_word>scarcely</comp_word>
+		<comp_word>hardly</comp_word>
+		<comp_word>barely</comp_word>
+		<comp_word>only just</comp_word>
+		<comp_word>no more than</comp_word>
+		<comp_word>about</comp_word>
+		<comp_word>thereabouts</comp_word>
+		<comp_word>somewhere about</comp_word>
+		<comp_word>nearly</comp_word>
+		<comp_word>say</comp_word>
+		<comp_word>be the same</comp_word>
+		<comp_word>be little more or less</comp_word>
+		<comp_word>no ways</comp_word>
+		<comp_word>no way</comp_word>
+		<comp_word>no wise</comp_word>
+		<comp_word>not at all</comp_word>
+		<comp_word>not in the least</comp_word>
+		<comp_word>not a bit</comp_word>
+		<comp_word>not a bit of it</comp_word>
+		<comp_word>not a whit</comp_word>
+		<comp_word>not a jot</comp_word>
+		<comp_word>not a shadow</comp_word>
+		<comp_word>in no wise</comp_word>
+		<comp_word>in no respect</comp_word>
+		<comp_word>by no means</comp_word>
+		<comp_word>by no manner of means</comp_word>
+		<comp_word>on no account</comp_word>
+		<comp_word>at no hand</comp_word>
+		<comp_symbol>&lt;</comp_symbol>
+	</comp_type>
+	<comp_type type = "Equality">
+		<comp_word>equal</comp_word>
+		<comp_word>same as</comp_word>
+		<comp_word>like</comp_word>
+		<comp_symbol>=</comp_symbol>
+	</comp_type>
+</comparator>
