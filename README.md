@@ -1,65 +1,102 @@
-# Automated Requirement Formalization using Product Design Specifications
+# ReForm: Automated Requirements Formalization using Natural Language Processing
 
-We present a new approach based on Natural Language Processing and textual similarity using requirements and product design specifications to generate human- and machine-readable models. The method is evaluated on an industrial use case from the railway domain and achieved an average accuracy of more than 90\% and an exact match of the entire models of about 55\%. 
+## Motivation
+
+Automated **formalization** of software requirements in natural language is helpful for
+- Requirements Verification
+- Reusability
+- Test Case Generation
+- much more...
 
 <p align="center">
-  <img src="nlp_reform/data/example.png"  width="500"/>
+  <img src="fig/req_central.jpg"  width="400"/>
 </p>
 
-<!-- <img align="center" width="500" src="nlp_reform_pipeline/data/example.png"> -->
+It strongly supports **manual work**, which requires expert knowledge, is very time-consuming and error-prone.
 
-# Getting started
+## Entities
 
-## Installation
-We recommend **Python 3.8** or higher.
+In order to generate requirement models from textual requirements, we need to **extract information** about
+- components
+- signals (input/output)
+- parameters (boolean/integer/real)
+- operators (larger/smaller/equal, and/or)
+- temporal logic (if/then/else)
 
-To install the requirements,
+As an **output format**, we use a simple domain specific language (DSL) describing temporal logic. It can be mapped to other requirement and model languages such as
+- UML diagrams (sequence diagrams, state machines, etc.)
+- Matlab Simulink models
+- OCL constraints
+- TeAL (Temporal Action Language)
+- Petri nets
+- FRETISH/SOPHIST/EARS templates
 
-``pip install -r requirements.txt``
+<p align="center">
+  <img src="fig/nlp_input_output.jpg"  width="500"/>
+</p>
 
-## Setup
-You can set the configuration parameters in ``nlp_reform/config.ini``.
+## Methodologies
 
-- The configuration parameter ``signal_detection`` helps you choose how to detect signals from the requirements. You can choose from the following options:
-    - ``tf`` runs with Term frequency,
-    - ``fw`` runs with Fuzzy-Wuzzy,
-    - ``bert`` runs with the pre-trained BERT model,
-    - ``tf+fw`` runs with a combination of both term frequency and Fuzzy-Wuzzy, and,
-    - ``bert+fw`` runs with a combination of both the pre-trained BERT model and Fuzzy-Wuzzy.
+We focus on principal ideas and state-of-the-art methodologies from the field of Natural Language Processing (NLP) to automatically generate requirements models from natural language requirements. We iteratively derive a set of rules based on NLP information to demonstrate how you can create your own rules and methods according to your specific use cases and needs. We use the following three NLP-based approaches:
 
-    **Note:** The default paremter for signal detection is set as ``bert+fw`` and the fastest option is ``tf``.
-- The configuration parameter ``param_detection`` helps you choose how to detect parameters from the requirements. You can choose from the follwoing options: 
-    - ``PD`` runs as a paraphrase detection task,
-    - ``TE`` runs as a textual entailment task, and
-    - ``SA`` runs as a sentiment analysis task. 
+- **Part-of-Speech Tagging** and **Dependency Parsing**: [pos_dep](nlp_reform_pos_dep)
+- **Semantic Role Labeling**: [srl](nlp_reform_srl)
+- **Semantic Similarity**: [sem_sim](nlp_reform_sem_sim)
 
-    **Note:** The default paremter for parameter detection is set as ``TE`` and the fastest option is ``PD``.
-- The configuration parameter ``method`` helps you choose which stages of the pipeline to run. You can choose from the following options: 
-    - ``Decomposition`` runs the decomposition stage, 
-    - ``Signal`` runs the signal detection stage with the configuration parmeter you chose for ``signal_detection``, 
-    - ``Parameter`` runs the parameter detection stage with the configuration parameter you chose for ``param_detection``, and
-    - ``Pipeline`` runs the whole pipeline with all the stages mentioned above. 
+Our approaches use the following general pipeline:
+<p align="center">
+  <img src="fig/pipeline.png"  width="700"/>
+</p>
 
 ## Run the tool
 
-To run the tool,
+We recommend **Python 3.8** or higher.
 
-```
-cd nlp_reform
-python main.py
-```
+Install the required libraries by executing the command
 
+`pip install -r requirements.txt`
 
-# Citation
+Run the UI via your web browser by the following command
 
-Please cite the publication in case you use our work or parts of it.
+`streamlit run app.py`
 
-```bibtex
-@inproceedings{groepler2022automated,
-    title = "Automated Requirement Formalization using Product Design Specifications",
-    author = "Gröpler, Robin and Kutty, Libin and Sudhi, Viju and Smalley, Daran",
-    booktitle = "REFSQ Workshops",
-    month = "03",
-    year = "2022",
-}
-```
+## Tool Demo
+
+An exemplary execution of the tool is shown below.
+<!---
+![](fig/tool_demo.jpg)
+-->
+
+## Citation
+
+You can find detailed information about our approaches in the following publications:
+
+[1] Gröpler, R., Sudhi, V., Calleja García, E.J., Bergmann, A.: **NLP-based requirements formalization
+for automatic test case generation**. In: CS&P’21, CEUR-WS.org, pp. 18–30 (2021).
+URL http://ceur-ws.org/Vol-2951/paper15.pdf
+
+[2] Gröpler, R., Sudhi, V., Kutty, L., Smalley, D.: **Automated requirement formalization using
+product design specifications**. In: NLP4RE’22, CEUR-WS.org (2022). URL http://ceur-ws.org/Vol-3122/NLP4RE-paper-1.pdf
+
+[3] Gröpler, R., Sudhi, V., Kutty, L.: **Automatisierte Modell- und Testgenerierung aus textuellen Anforderungen**. In: AUTOMATION 2022, VDI, pp. 521–532 (2022). DOI http://dx.doi.org/10.51202/9783181023990-521
+
+[4] Sudhi, V., Kutty, L., Gröpler, R.: **Natural Language Processing for Requirements Formalization: How to Derive New Approaches?** In: CS&P'21 Post-Proceedings, Springer. URL https://link.springer.com/chapter/10.1007/978-3-031-26651-5_1 
+[Accepted](https://www2.informatik.hu-berlin.de/csp2021/proc.shtml)
+
+The full text articles are also available on [ResearchGate](https://www.researchgate.net/profile/Robin-Groepler/research). Please also find [BibTex](fig/ReForm_references.bib) for citation.
+
+## Acknowledgments
+
+This research was funded by the German Federal Ministry of Education and Research (BMBF) within the ITEA projects [XIVT](https://itea4.org/project/xivt.html) (grant no. 01IS18059E) and [SmartDelta](https://itea4.org/project/smartdelta.html) (grant no. 01IS21083E). We thank **AKKA** Germany GmbH and **Bombardier Transportation**, an Alstom Group Company, for providing industrial use cases for the demonstration of the presented methods.
+
+## Contact
+
+Don't hesitate to e-mail us, if you have any questions or would like to use the tool.
+
+**Contact person:** Robin Gröpler, [robin.groepler@ifak.eu](mailto:robin.groepler@ifak.eu)
+
+ifak - Institut für Automation und Kommunikation e.V., Magdeburg, Germany
+
+## License
+
+This software is licensed under the open source license [MICROSOFT REFERENCE SOURCE LICENSE (MS-RSL)](LICENSE.md). If you want to use the code in another form, please contact us.

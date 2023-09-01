@@ -13,17 +13,31 @@ def load_req_signals(path=r'data/input.xlsx'):
     reads the input file and populate a list of requirements with necessary details.
     """
 
-    file = pd.read_excel(path, sheet_name=[0, 1])
+    file = pd.read_excel(path, sheet_name=[0, 1, 2])
     req_file = file[0]
     signals_file = file[1]
+    parameters_file = file[2]
     signals_in = []
     signals_out = []
     for _, sig in signals_file.iterrows():
-        s = {'name': sig['Signal Name'], 'data_type': sig['Data type'], 'desc': sig['Signal Desc']}
-        if sig['Direction'] == 'incoming':
-            signals_in.append(s)
-        else:
-            signals_out.append(s)
+        try:
+            s = {'name': sig['Signal Name'], 'data_type': sig['Data type'], 'desc': sig['Signal Desc']}
+            if sig['Direction'] == 'incoming':
+                signals_in.append(s)
+            else:
+                signals_out.append(s)
+        except:
+            raise Exception("Please check if the 'Signals' sheet have the "
+                            "correct headers.")
+
+    parameters = []
+    for _, param in parameters_file.iterrows():
+        try:
+            p = {'name': param['Parameter Name'], 'data_type': param['Data Type'], 'value': param['Value'], 'desc': param['Parameter Description']}
+            parameters.append(p)
+        except:
+            raise Exception("Please check if the 'Parameters' sheet have the "
+                            "correct headers.")
 
     req_list = []
     for _, row in req_file.iterrows():
@@ -32,14 +46,18 @@ def load_req_signals(path=r'data/input.xlsx'):
         try:
             req = {'req_id': row['Req ID'], 'linked_item': row['Linked Item'], 'req_desc': row['Requirement'],
                    'output': row['Formalized Requirement']}
+            req_list.append(req)
         except:
             req = {'req_id': row['Req ID'], 'linked_item': row['Linked Item'], 'req_desc': row['Requirement']}
-        req_list.append(req)
+            req_list.append(req)
+        else:
+            raise Exception("Please check if the 'Requirements' sheet have the "
+                            "correct headers.")
 
-    return req_list, signals_in, signals_out
+    return req_list, signals_in, signals_out, parameters
 
 
-def read_config(path='config.ini'):
+def read_config(path='data/config.ini'):
     """
     reads the config file and populates values for different detection techniques.
     """

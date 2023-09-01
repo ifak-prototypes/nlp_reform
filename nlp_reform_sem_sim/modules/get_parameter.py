@@ -4,7 +4,7 @@ import re
 # from allennlp.predictors.predictor import Predictor
 # from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
-from modules import util
+from nlp_reform_sem_sim.modules import util
 
 # predictor_SA = Predictor.from_path("https://storage.googleapis.com/allennlp-public-models"
 #                                    "/basic_stanford_sentiment_treebank-2020.06.09.tar.gz")

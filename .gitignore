@@ -1,1 +1,6 @@
-__pycache__
+*.pyc
+*.log
+*.html
+Tests/test_results/
+.idea
+venv/

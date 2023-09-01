@@ -1,0 +1,9 @@
+The error state is E_BROKEN, if the temperature of the battery is larger than t_batt_max.
+The error state is E_BROKEN, if the temperature of the battery is larger than t_batt_max and it is smaller than t_max.
+The error state is E_BROKEN, if the temperature of the battery is larger than t_batt_max and t_max.
+The error state is E_BROKEN, if the temperature of the battery is between t_batt_max and t_max.
+The charging approval shall be given if the connection with the charging station is active.
+The charging approval shall not be given if the connection with the charging station is inactive.
+The maximum power shall be limited to G_Max and the event "High device temperature" shall be indicated when the device temperature exceeds T_Hi C.
+The device fuel pump shall not be activated until the fuel level falls below L_Fp.
+The device fuel pump shall be deactivated within 3s and it shall be closed when the fuel level exceeds L_Fp.
